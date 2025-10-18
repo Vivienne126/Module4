@@ -22,5 +22,6 @@ def main():
             break
         joke=get_random_joke()
         print(joke)
-if __name__=="__main__":
-    main()
+
+
+
